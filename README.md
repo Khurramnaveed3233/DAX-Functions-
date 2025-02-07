@@ -94,12 +94,14 @@ Aap iska istemal students ki total count nikalne ke liye kar sakte hain. Masalan
 Class mein students: Ali, Ahmed, Sara, Zain
 COUNT = 4
 
-7. CountA (غیر خالی خانوں کی گنتی)
+- **CountA (غیر خالی خانوں کی گنتی)**
+  
 Meaning: CountA ka matlab hai non-empty cells (khali na hone wale cells) ki count karna.
 
 Example:
-Data: Ali, , Sara, Zain
-COUNTA = 3 (kyunki ek cell khali hai)
+
+    Data: Ali, , Sara, Zain
+    COUNTA = 3 (kyunki ek cell khali hai)
 
 Practical Use:
 
@@ -108,13 +110,13 @@ Aap iska istemal attendance sheet mein present students ki count nikalne ke liye
     Attendance: Present, Absent, Present, Present
     COUNTA = 3 (kyunki sirf 3 students present hain)
 
-8. CountRows (قطاروں کی گنتی)
+- **CountRows (قطاروں کی گنتی)**
 
 Meaning: CountRows ka matlab hai table ya dataset mein kitni rows hain.
 
 Example:
-Table:
 
+    Table:
     Ali
     20
     Ahmed
@@ -148,10 +150,10 @@ Aap iska istemal product categories ki unique count nikalne ke liye kar sakte ha
 
 Final Recap:
 
-     - Sum : Total addition (جمع)
-     - Average : Mean of numbers (اوسط)
-Max : Largest number (زیادہ سے زیادہ)
-Min : Smallest number (کم سے کم)
+    Sum : Total addition (جمع)
+    Average : Mean of numbers (اوسط)
+    Max : Largest number (زیادہ سے زیادہ)
+    Min : Smallest number (کم سے کم)
 Divide : Division of numbers (تقسیم)
 Count : Total numbers/items (گنتی)
 CountA : Non-empty cells (غیر خالی خانوں کی گنتی)
