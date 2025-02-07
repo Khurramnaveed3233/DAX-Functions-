@@ -150,12 +150,12 @@ Aap iska istemal product categories ki unique count nikalne ke liye kar sakte ha
 
 Final Recap:
 
-    Sum : Total addition (جمع)
+    Sum     : Total addition (جمع)
     Average : Mean of numbers (اوسط)
-    Max : Largest number (زیادہ سے زیادہ)
-    Min : Smallest number (کم سے کم)
-Divide : Division of numbers (تقسیم)
-Count : Total numbers/items (گنتی)
-CountA : Non-empty cells (غیر خالی خانوں کی گنتی)
-CountRows : Total rows in a table (قطاروں کی گنتی)
-DistinctCount : Unique values (منحصربفروں کی گنتی)
+    Max     : Largest number (زیادہ سے زیادہ)
+    Min     : Smallest number (کم سے کم)
+    Divide  : Division of numbers (تقسیم)
+    Count   : Total numbers/items (گنتی)
+    CountA  : Non-empty cells (غیر خالی خانوں کی گنتی)
+    CountRows : Total rows in a table (قطاروں کی گنتی)
+    DistinctCount : Unique values (منحصربفروں کی گنتی)
