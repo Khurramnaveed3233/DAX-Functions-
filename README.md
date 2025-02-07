@@ -1,4 +1,5 @@
-# DAX-Functions
+
+# Aggregate Functions 
 
 - **Sum (جمع)**
 Meaning: Sum ka matlab hai "total" ya "addition". Ye function numbers ko add karke unka total nikalta hai.
